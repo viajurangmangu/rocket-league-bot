@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>RlBot.Core</RootNamespace>
+    <AssemblyName>RlBot.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
